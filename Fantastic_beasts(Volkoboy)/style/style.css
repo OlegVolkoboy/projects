@@ -1,0 +1,52 @@
+body{
+    background-color: black;
+    color: #ffffff;
+    font-family: Tahoma;
+    line-height: 1.5;
+    font-size: 18px;
+    margin: 40px;
+}
+a{
+    color: #ffffff;
+}
+a:visited{
+    color: #fdabab;
+}
+.img_1{
+    height: 700px;
+    background-image: url("../pict/back-img-03.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+}
+.id_1{
+    background-color: #2D2D34;
+    border-radius:25px;
+    padding-bottom: 20px;
+}
+.topic{
+    line-height: 1.2;
+    position:relative;
+    font-family: "Comic Sans MS";
+    font-size: 45px;
+    padding: 530px 20px 20px 20px;
+}
+.text{
+    margin: 20px 20px 20px 20px;
+}
+
+.id_2{
+    background-color: #2D2D34;
+    border-radius:25px;
+    text-align: center;
+    padding: 15px;
+}
+.img_2{
+    height: 123px;
+    background-image: url("../pict/oscar.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position:center;
+}
